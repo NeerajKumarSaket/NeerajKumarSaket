@@ -1,4 +1,4 @@
-<h1 align="center">Hello👋, I am Neeraj Kuumar Saket</h1>
+<h1 align="center">Hello👋, I am Neeraj Kumar Saket</h1>
 <h3 align="center">A diligent programmer from Bhopal M.P.</h3>
 
 <p align="left"> <a href="https://twitter.com/@neerajk59978015" target="blank"><img src="https://img.shields.io/twitter/follow/@neerajk59978015?logo=twitter&style=for-the-badge" alt="@neerajk59978015" /></a> </p>
