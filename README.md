@@ -16,7 +16,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@neerajk59978015" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@neerajk59978015" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/neeraj-kumar-a207a0233" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="neeraj-kumar-a207a0233" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/neeraj-kumar-saket-cse" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="neeraj-kumar-a207a0233" height="30" width="40" /></a>
 <a href="https://kaggle.com/neerajkumarsaket" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="neerajkumarsaket" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/neerajsaket" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="neerajsaket" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/nk8723857" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="nk8723857" height="30" width="40" /></a>
