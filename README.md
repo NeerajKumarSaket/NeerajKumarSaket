@@ -1,5 +1,5 @@
-<h1 align="center">Hello👋, I am Neeraj Kumar Saket</h1>
-<h3 align="center">A diligent programmer from Bhopal M.P.</h3>
+<h1 align="center">👋 Hey there, I'm Neeraj Kumar</h1>
+<h3 align="center">🚀 Java Backend Developer | Building Scalable & Secure APIs</h3>
 
 <p align="left"> <a href="https://twitter.com/@neerajk59978015" target="blank"><img src="https://img.shields.io/twitter/follow/@neerajk59978015?logo=twitter&style=for-the-badge" alt="@neerajk59978015" /></a> </p>
 
@@ -7,7 +7,7 @@
 Developing scalable and secure backend systems using **Java, Spring Boot, Hibernate,** and **MySQL.**
 
 - 🌱 **Currently Learning:**
-Advancing my expertise in **Java-based Backend Development** by building** real-world projects** focused on performance and scalability.
+Advancing my expertise in **Java-based Backend Development** by building **real-world projects** focused on performance and scalability.
 
 - 💬 **Ask Me About:**
 **Core Java, Spring Boot, Spring Security, Spring MVC, Spring Data JPA, RESTful APIs, Hibernate, MySQL, Maven, Git, and Docker.**
