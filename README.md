@@ -29,7 +29,11 @@ I bring **positive energy and excitement** to every project I work on — becaus
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.java.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="45" height="45"/> </a> <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" width="45" height="45"/> </a>
+<p align="left"> <a href="https://www.java.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="45" height="45"/> </a> 
+  
+<a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" width="45" height="45"/> </a>
+
+<a href="https://spring.io/projects/spring-security" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/48/spring-logo.png" alt="Spring Security" width="45" height="45"/> </a>
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=neerajkumarsaket&show_icons=true&locale=en&layout=compact" alt="neerajkumarsaket" /></p>
