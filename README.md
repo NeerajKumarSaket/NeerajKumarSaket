@@ -4,15 +4,19 @@
 <p align="left"> <a href="https://twitter.com/@neerajk59978015" target="blank"><img src="https://img.shields.io/twitter/follow/@neerajk59978015?logo=twitter&style=for-the-badge" alt="@neerajk59978015" /></a> </p>
 
 - 🔭 **Currently Working On:**
-Developing scalable and secure backend systems using **Java, Spring Boot, Hibernate, and MySQL.**
+Developing scalable and secure backend systems using **Java, Spring Boot, Hibernate,** and **MySQL.**
 
-- 🌱 I’m currently learning **Machine Learning, Flutter, python**
+🌱 **Currently Learning:**
+Advancing my expertise in **Java-based Backend Development** by building** real-world projects** focused on performance and scalability.
 
-- 💬 Ask me about **python, css3, html5**
+💬 **Ask Me About:**
+**Core Java, Spring Boot, Spring Security, Spring MVC, Spring Data JPA, RESTful APIs, Hibernate, MySQL, Maven, Git, and Docker.**
 
-- 📫 How to reach me **neerajkumar632002@gmail.com**
+📫 **Reach Me At:**
+📧 **neerajkumar632002@gmail.com**
 
-- ⚡ Fun fact **I work with full of energy.**
+⚡ **Fun Fact:**
+I bring **positive energy and excitement** to every project I work on — because **great code comes from great enthusiasm!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
