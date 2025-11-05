@@ -3,7 +3,8 @@
 
 <p align="left"> <a href="https://twitter.com/@neerajk59978015" target="blank"><img src="https://img.shields.io/twitter/follow/@neerajk59978015?logo=twitter&style=for-the-badge" alt="@neerajk59978015" /></a> </p>
 
-- 🔭 I’m currently working on **Online Exam Application**
+- 🔭 Currently Working On:
+Developing scalable and secure backend systems using Java, Spring Boot, Hibernate, and MySQL.
 
 - 🌱 I’m currently learning **Machine Learning, Flutter, python**
 
