@@ -6,16 +6,16 @@
 - 🔭 **Currently Working On:**
 Developing scalable and secure backend systems using **Java, Spring Boot, Hibernate,** and **MySQL.**
 
-🌱 **Currently Learning:**
+- 🌱 **Currently Learning:**
 Advancing my expertise in **Java-based Backend Development** by building** real-world projects** focused on performance and scalability.
 
-💬 **Ask Me About:**
+- 💬 **Ask Me About:**
 **Core Java, Spring Boot, Spring Security, Spring MVC, Spring Data JPA, RESTful APIs, Hibernate, MySQL, Maven, Git, and Docker.**
 
-📫 **Reach Me At:**
+- 📫 **Reach Me At:**
 📧 **neerajkumar632002@gmail.com**
 
-⚡ **Fun Fact:**
+- ⚡ **Fun Fact:**
 I bring **positive energy and excitement** to every project I work on — because **great code comes from great enthusiasm!**
 
 <h3 align="left">Connect with me:</h3>
